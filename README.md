@@ -102,13 +102,13 @@ The model generates:
 MIT License
 
 ## Contributors
-- [Your Name]
+- Utkarsh Srivastava
 
 ## Citation
 If you use this project in your research, please cite:
 ```
 @misc{oral-disease-detection,
-  author = {[Your Name]},
+  author = {Utkarsh Srivastava},
   title = {Oral Disease Detection Using Deep Learning},
   year = {2024},
   publisher = {GitHub},
